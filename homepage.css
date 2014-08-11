@@ -1,0 +1,33 @@
+
+.nav a {
+  color: #347235;
+  padding: 14px 10px;
+  }
+  
+.nav li {
+  display: inline;
+  }
+
+.title {
+  background-color: #347235;
+  height: 300px;
+  border-bottom: 1px solid #dbdbdb
+  }
+
+.title h1 {
+  color: #F0FFFF;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Lora', serif;
+  padding-top: 50px;
+  padding-left: 100px;
+  }
+  
+ .title p {
+   color: #F0FFFF;
+   font-size: 15px;
+   font-family: 'Lora', serif;
+   padding-left: 150px;
+   }
+   
+   
